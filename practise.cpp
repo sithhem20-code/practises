@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+cout<<"Sith"<<endl;
 void swap(int *a, int *b) {
     int temp = *a;
     *a = *b;
